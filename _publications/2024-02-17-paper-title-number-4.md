@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: 'Arrival and depatrure windows of Atlantic sturgeon in Chesapeake Bay in Virginia'
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: Manuscripts
+permalink: /publication/10.7755/FB.121.4.2
+excerpt: 'This paper explores when Atlantic sturgeon enter and leave the Chesapeake Bay. Within the bay, there is high sturgeon mortality due to shipping vessel strikes. Knowing the timing of sturgeon in and out of the bay may help with the conservation of these endangered species.'
+date: 'November 2023'
+venue: 'Fisheries Bulletin'
+paperurl: 'https://www.researchgate.net/publication/375704348_Arrival_and_departure_windows_of_Atlantic_sturgeon_in_Chesapeake_Bay_in_Virginia?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19'
+citation: 'Kahn, J. E., Hager, C. H., Breault, D. K. & Watterson, J. C. Arrival and departure windows of Atlantic sturgeon (Acipenser oxyrinchus oxyrinchus) in Chesapeake Bay in Virginia. Fishery Bulletin 121, 161–171 (2023). DOI:10.7755/FB.121.4.2'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

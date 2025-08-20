@@ -11,11 +11,14 @@ I am a masters student of Biology at The University of Alabama. My primary advis
 
 Masters Thesis
 ======
-I study the Pynopysche caddisfly diets. I recieved $12,000 through [CONSERVE](https://conserve-group.org/)
+My research focuses on the food-web dynamics of the shredding caddisfly, Pycnopsyche. Pycnopsyche is an aquatic insect in a feeding regime called ‘shredding insects’ This means Pycnopsyche eats decaying leaves and associated microbes that fall into freshwater ecosystems. Traditionally, understanding what these insects eat involves dissecting their guts and identifying the food items under a microscope. This method often results in low taxonomic resolution, as it is difficult to properly identify food items beyond ‘this is plant tissue’ or ‘this is a fungus.’ This can be problematic for conservation, because as our waterways become drier and more polluted, we need to see how aquatic insect diets change in response to these negative stressors, so that we can make informed conservation decisions. 
+To fill this research gap, I will be taking a different approach by using whole-genome shotgun sequencing (WGS). With WGS, I analyze DNA in the guts of Pycnopsyche and potentially elucidate the exact species of plant and fungus inside their stomachs. The increased taxonomic resolution provided by WGS could influence how stream ecologists and conservations study the feeding habits of shredding and other aquatic insects.
+
+I recieved $12,000 through [CONSERVE](https://conserve-group.org/) and $750 from [Highlands Biological Station](https://highlandsbiological.org/grants-in-aid-of-research/). This financial support has been cruical
 
 Current Projects
 ======
-Lopez and smith papers, effects of capture and surgery
+In addition to my thesis, I have three side projects I am involved in. Lopez and smith papers, effects of capture and surgery
 
 Professional Experience
 ======

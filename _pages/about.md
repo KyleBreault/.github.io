@@ -9,6 +9,8 @@ redirect_from:
 
 I am a masters student of Biology at The University of Alabama. My primary advisor (Dr. Jon Benstead) is an aquatic ecologist. I also work with Dr. Michael McKain, who studies evolutionary genomics of plants. 
 
+![Sturgeon](/images/headshot.png)
+
 Masters Thesis
 ======
 My research focuses on the food-web dynamics of the shredding caddisfly, Pycnopsyche. Pycnopsyche is an aquatic insect in a feeding regime called ‘shredding insects’ This means Pycnopsyche eats decaying leaves and associated microbes that fall into freshwater ecosystems. Traditionally, understanding what these insects eat involves dissecting their guts and identifying the food items under a microscope. This method often results in low taxonomic resolution, as it is difficult to properly identify food items beyond ‘this is plant tissue’ or ‘this is a fungus.’ This can be problematic for conservation, because as our waterways become drier and more polluted, we need to see how aquatic insect diets change in response to these negative stressors, so that we can make informed conservation decisions. 

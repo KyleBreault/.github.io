@@ -11,7 +11,7 @@ I am a masters student of Biology at The University of Alabama. My primary advis
 
 Masters Thesis
 ======
-I study the Pynopysche caddisfly diets
+I study the Pynopysche caddisfly diets. I recieved $12,000 through [CONSERVE](https://conserve-group.org/)
 
 Current Projects
 ======

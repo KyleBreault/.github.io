@@ -84,7 +84,7 @@ publication_category:
   #  title: 'Books'
   manuscripts:
     title: 'Journal Articles'
-  techincal reports:
+  technical reports:
     title: 'Techincal Reports'
   #conferences:
    # title: 'Conference Papers'

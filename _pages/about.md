@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I am a masters student of Biology at The University of Alabama. My primary advisor (Dr. Jon Benstead) is an aquatic ecologist. I also work with Dr. Michael McKain, who studies evolutionary genomics of plants. 
+![Sturgeon](https://github.com/KyleBreault/.github.io/blob/master/images/sturgeon.png "Sturgeon")
 
-![Sturgeon](.github.io/images/sturgeon.png "Sturgeon")
 
 Masters Thesis
 ======

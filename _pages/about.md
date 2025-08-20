@@ -9,7 +9,14 @@ redirect_from:
 
 I am a masters student of Biology at The University of Alabama. My primary advisor (Dr. Jon Benstead) is an aquatic ecologist. I also work with Dr. Michael McKain, who studies evolutionary genomics of plants. 
 
-<img src="https://kylebreault.github.io/images/sturgeon.png" alt="Sturgeon">
+{% include base_path %}
+{% assign img = "sturgeon.png" %}
+
+{% if img contains "://" %}
+  <img src="{{ img }}" alt="My image">
+{% else %}
+  <img src="{{ img | prepend: "/images/" | prepend: base_path }}" alt="My image">
+{% endif %}
 
 Masters Thesis
 ======

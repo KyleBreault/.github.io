@@ -13,6 +13,10 @@ Masters Thesis
 ======
 I study the Pynopysche caddisfly diets
 
+Current Projects
+======
+Lopez and smith papers, effects of capture and surgery
+
 Professional Experience
 ======
 I have a lot of professional expereince, having worked with rhesus monkeys, fishing boats, endangered atlantic sturgeon, bears, and pest control. These gave me a solid foundation of not only wildlife management, but many things. haha

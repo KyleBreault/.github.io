@@ -21,7 +21,6 @@ females capable of producing the most eggs were disproportionately exposed to an
 statistically significant, during the 7 years of this study, both males and females generally arrived earlier and departed later each year than the previous 
 year, increasing residency in Chesapeake Bay by a month in that time
 
-<br> <br> 
 
 
  

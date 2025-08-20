@@ -9,10 +9,6 @@ redirect_from:
 
 I am a masters student of Biology at The University of Alabama. My primary advisor (Dr. Jon Benstead) is an aquatic ecologist. I also work with Dr. Michael McKain, who studies evolutionary genomics of plants. 
 
-{% include base_path %}
-<div class="author__avatar">
-  <img src="{{ '/images/sturgeon.png' | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" fetchpriority="high">
-</div>
 
 Masters Thesis
 ======
